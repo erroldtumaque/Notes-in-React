@@ -22,3 +22,5 @@ accounts-ui
 accounts-facebook
 fourseven:scss
 session
+cultofcoders:mocha
+react-meteor-data
