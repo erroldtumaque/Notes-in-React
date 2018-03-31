@@ -1,7 +1,6 @@
-# Notes - Meteor/React Project
+# Boilerplate Meteor Project
 
-This is a notes app made using Meteor and React. 
-It utilizes user sign up and authentication and client/server-side tests using Chai, Sinon, Enzyme, and Jest. 
+This includes a basic react and auth setup
 
 ## Author
 
